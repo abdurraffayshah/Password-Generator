@@ -72,7 +72,7 @@ New Password: sA9!kL4@xP2#n
 
 ## Contributing
 
-We welcome contributions to enhance the Password Generator. To contribute:
+I welcome contributions to enhance the Password Generator. To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
