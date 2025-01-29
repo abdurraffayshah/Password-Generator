@@ -48,3 +48,52 @@ The Password Generator is a simple yet effective tool for creating strong and se
 To run the Password Generator script, use the following command:
 ```sh
 python password_generator.py
+```
+
+You will be presented with a menu offering two options:
+1. Generate a password with a specified length.
+2. Generate a completely random password.
+
+### Example
+
+```sh
+Welcome to the Password Generator!
+
+Please choose an option:
+g - Generate a password with a specified length
+r - Generate a completely random password
+
+Input: g
+What should be the length of the password? 12
+Please wait as we generate your password. It can take up to a few seconds
+......
+New Password: sA9!kL4@xP2#n
+```
+
+## Contributing
+
+We welcome contributions to enhance the Password Generator. To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b feature-branch
+    ```
+3. Make your changes.
+4. Commit your changes:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+5. Push to the branch:
+    ```sh
+    git push origin feature-branch
+    ```
+6. Open a pull request.
+
+## [License](https://github.com/abdurraffayshah/Password-Generator/blob/main/LICENSE)
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abdurraffayshah/Password-Generator/blob/main/LICENSE) file for more details.
+
+---
+
+Thank you for using the Password Generator! If you have any questions or need further assistance, feel free to open an issue or contact me.
