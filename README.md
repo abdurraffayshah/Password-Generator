@@ -8,7 +8,7 @@ Welcome to the **Password Generator** project! This Python script generates secu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/abdurraffayshah/Password-Generator/blob/main/LICENSE)
 
 ## Project Overview
 
