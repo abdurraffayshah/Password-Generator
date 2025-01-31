@@ -41,6 +41,9 @@ def main():
             print(f"New Password: {password_generator(user)}")
             sys.exit("Thank you for using our service")
 
+        elif user == "e":
+            sys.exit("Thank you for using our service")
+
         else:
             # Invalid input prompt
             print("Please input a valid prompt.")
